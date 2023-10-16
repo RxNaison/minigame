@@ -1,0 +1,7 @@
+C:\Users\nata\source\repos\minigame\minigame\obj\Debug\minigame.csproj.AssemblyReference.cache
+C:\Users\nata\source\repos\minigame\minigame\obj\Debug\minigame.csproj.CoreCompileInputs.cache
+C:\Users\nata\source\repos\minigame\minigame\bin\Debug\minigame.exe.config
+C:\Users\nata\source\repos\minigame\minigame\bin\Debug\minigame.exe
+C:\Users\nata\source\repos\minigame\minigame\bin\Debug\minigame.pdb
+C:\Users\nata\source\repos\minigame\minigame\obj\Debug\minigame.exe
+C:\Users\nata\source\repos\minigame\minigame\obj\Debug\minigame.pdb
